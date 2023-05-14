@@ -1,5 +1,5 @@
 # Hi, I'm David!
-### This repository provides an overview of my projects in data analytics. Thank you for your interest.
+### Here I'm providing an overview of my projects in data analytics. Thank you for your interest.
 
 My data analytics journey startet with a bootcamp at neuefische.
 
